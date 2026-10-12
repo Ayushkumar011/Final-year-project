@@ -1,0 +1,7 @@
+cd /home/ayush-kumar/Desktop/project/backend
+source venv/bin/activate && uvicorn main:app --reload
+
+
+
+cd /home/ayush-kumar/Desktop/project/frontend
+npm run dev
